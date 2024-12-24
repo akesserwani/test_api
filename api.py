@@ -7,7 +7,7 @@ def message():
     # Default response data
     response_data = {
         "message": "Check out the new update!",
-        "showModal": False
+        "showModal": True
     }
 
     # Handle POST requests
